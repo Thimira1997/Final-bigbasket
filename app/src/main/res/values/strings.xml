@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="user">Email</string>
+    <string name="pass">Password</string>
+    <string name="register">Register</string>
+    <string name="title">LOGIN</string>
+    <string name="admin">ADMIN</string>
+    <string name="img">image</string>
+    <string name="userprofile">USER PROFILE</string>
+    <string name="fname">Thimira</string>
+    <string name="lname">Sobash</string>
+    <string name="email">Thimi1234@gmail.com</string>
+    <string name="password">*************</string>
+    <string name="fname1">First Name</string>
+    <string name="lname1">Last Name</string>
+    <string name="email3">Email</string>
+    <string name="password1">Password</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="ok">OK</string>
+    <string name="title1">USER REGISTRATION</string>
+    <string name="compass">Confirm Password</string>
+    <string name="useredit">EDIT PROFILE</string>
+    <string name="title2">Total Bill</string>
+    <string name="img11">background image</string>
+    <string name="img1">logo</string>
+    <string name="order">Order Payment</string>
+    <string name="delivery">Delivery Payment</string>
+    <string name="total">Total Payment</string>
+    <string name="order1">Rs.450.00</string>
+    <string name="delivery1">Rs.150.00</string>
+    <string name="total1">Rs.600.00</string>
+</resources>
