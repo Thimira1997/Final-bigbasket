@@ -47,4 +47,38 @@
     <string name="btnViewP">VIEW STORE</string>
     <string name="btnBrowse">BROWSE</string>
 
+    //IT19101248
+    <string name="t1">WELCOME</string>
+    <string name="t2">fresh fruits and vegitables in your Doorsteps..</string>
+    <string name="name">Enter your Name:</string>
+    <string name="contact">Enter Your ID:</string>
+
+    <string name="updatebtn">update</string>
+    <string name="add">"add "</string>
+    <string name="update">update</string>
+    <string name="deletefeed">delete</string>
+    <string name="view">viewbtn</string>
+    <string name="show">view</string>
+    <string name="feed">Enter your Feedback:</string>
+    <string name="phone">Enter contact No:</string>
+    <string name="id">Enter your ID</string>
+    <string name="ID">Enter your ID:</string>
+    <string name="fid">Enter your ID:</string>
+    <string name="txtname2">Name:</string>
+    <string name="txtid2">ID:</string>
+    <string name="txtfeed2">Feedback:</string>
+    <string name="btn1">update</string>
+    <string name="btn2">delete</string>
+    <string name="btn3">view</string>
+    <string name="txtenter">Enter Your ID:</string>
+    <string name="loadbtn">load</string>
+    <string name="tname">Name</string>
+    <string name="tid">ID</string>
+    <string name="tfeed">Feedback</string>
+    <string name="txname">Enter Your Name:</string>
+    <string name="txfeedback">Enter Your Feedback:</string>
+    <string name="btnup">update</string>
+    <string name="btndelete">delete</string>
+    <string name="upDel"><![CDATA[update & delete]]></string>
+
 </resources>

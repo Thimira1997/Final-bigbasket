@@ -12,7 +12,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AddItemPage"></activity>
+        <activity android:name=".SecondActivity"></activity>
+        <activity android:name=".Addtocart" />
+        <activity android:name=".FeedbackList" />
+        <activity android:name=".Feedback_Details" />
+        <activity android:name=".addfeedback" />
+        <activity android:name=".DeliveryDetails" />
+        <activity android:name=".UserItemPage" />
+        <activity android:name=".AddItemPage" />
         <activity android:name=".ItemPage" />
         <activity android:name=".AdminLoginPage" />
         <activity android:name=".Home" />

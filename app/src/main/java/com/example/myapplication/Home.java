@@ -6,12 +6,14 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 
 public class Home extends AppCompatActivity {
 
-    Button btnLogout,profile;
+    Button btnLogout;
+    ImageButton profile,delivery,store,feedback;
     String UN;
 
     @Override
@@ -20,7 +22,10 @@ public class Home extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
        btnLogout= (Button) findViewById(R.id.logout);
-       profile= (Button) findViewById(R.id.profile);
+       profile= findViewById(R.id.btnProfile);
+       delivery= findViewById(R.id.btnDelivery);
+       store= findViewById(R.id.btnStore);
+       feedback= findViewById(R.id.btnFeed);
 
         Intent getintent = getIntent();
         UN = getintent.getStringExtra("UN");
@@ -49,5 +54,30 @@ public class Home extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        store.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Home.this, UserItemPage.class);
+                startActivity(intent);
+            }
+        });
+
+        delivery.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Home.this, DeliveryDetails.class);
+                startActivity(intent);
+            }
+        });
+
+        feedback.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Home.this, addfeedback.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }
