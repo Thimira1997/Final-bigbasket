@@ -14,4 +14,30 @@
     <color name="colorDarkRed">#9A0D03</color>
     <color name="colorBrown">#855343</color>
     <color name="colorWhite">#F3EEEE</color>
+
+    //IT19158396
+    // Interface1
+    <color name="name">#fafafa</color>
+    <color name="mobile">#fafafa</color>
+    <color name="email">#fafafa</color>
+    <color name="address1">#fafafa</color>
+    <color name="address2">#fafafa</color>
+    <color name="address3">#fafafa</color>
+    <color name="date">#fafafa</color>
+
+    // Interface 3
+    <color name="Pay1">#000000</color>
+    <color name="Pay2">#000000</color>
+    <color name="Pay3">#000000</color>
+    <color name="Pay4">#000000</color>
+
+    // Interface 4
+    <color name="destination">#000000</color>
+    <color name="txt1">#fafafa</color>
+
+    // Interface 5
+    <color name="chargeFor1">#000000</color>
+    <color name="NoOfKm">#000000</color>
+    <color name="TotalCharge">#000000</color>
+    <color name="Pay">#aaaaaa</color>
 </resources>

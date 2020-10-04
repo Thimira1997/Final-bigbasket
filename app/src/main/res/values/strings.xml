@@ -81,4 +81,46 @@
     <string name="btndelete">delete</string>
     <string name="upDel"><![CDATA[update & delete]]></string>
 
+    //19158396
+    //interface 1
+
+    <string name="Interface1Topic">Your Delivery Details</string>
+    <string name="Value1">Name</string>
+    <string name="Value2">MobileNumber</string>
+    <string name="Value3">Email</string>
+    <string name="Value4">Address1</string>
+    <string name="Value5">Address2</string>
+    <string name="Value6">City</string>
+    <string name="Value7">Date</string>
+
+    //interface2
+    <string name="Interface2">Check Your Details</string>
+
+    //interface3
+    <string name="interface3">Delivery Payment</string>
+    <string name="Pay1">Charge For 1 KM</string>
+    <string name="Pay2">Destination</string>
+    <string name="Pay3">How many KM have?</string>
+    <string name="charge">1000.00</string>
+    <string name="Pay4">PIN Number</string>
+
+    //interface4
+    <string name="viewPay">Change Details</string>
+    <string name="ViewPay1"> Destination :</string>
+    <string name="ViewPay2"> No Of KM :</string>
+
+    //interface5
+    <string name="interface5">$ You Have To Pay !!</string>
+    <string name="Charge1">Charge For 1 KM :</string>
+    <string name="Total1Value">1000.00</string>
+    <string name="Charge2">Number Of KM :</string>
+    <string name="Total_Km_Value">15</string>
+    <string name="Charge3">Total Charge For Delivery :</string>
+    <string name="Fee">15000.00</string>
+    <string name="Warning">Please Pay Your Charge !!!</string>
+    <string name="thank">Thank You For Your Trust In Us !!!</string>
+    <string name="button_final">PAY</string>
+    <string name="NoOfKm2">10</string>
+    <string name="TotalCharge2">10000.00</string>
+
 </resources>
