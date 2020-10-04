@@ -23,7 +23,7 @@ import com.google.firebase.database.ValueEventListener;
 public class MainActivity extends AppCompatActivity {
 
     EditText edtuser,edtpass,id;
-    Button btnLogin;
+    Button btnLogin,adminbtn;
     public Button button;
     DatabaseReference dbRef;
     RegisterDB std;
@@ -71,7 +71,16 @@ public class MainActivity extends AppCompatActivity {
         btnLogin=(Button)findViewById(R.id.login);
 
         button= (Button) findViewById(R.id.editOK);
+        adminbtn = (Button)findViewById(R.id.button);
         std =new RegisterDB();
+
+        adminbtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, AdminLoginPage.class);
+                startActivity(intent);
+            }
+        });
 
 
         btnLogin.setOnClickListener(new View.OnClickListener() {

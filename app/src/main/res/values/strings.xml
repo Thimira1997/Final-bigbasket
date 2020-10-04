@@ -31,4 +31,20 @@
     <string name="order1">Rs.450.00</string>
     <string name="delivery1">Rs.150.00</string>
     <string name="total1">Rs.600.00</string>
+
+    //IT19188164
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="loginAdmin">Login</string>
+    <string name="userImage">image</string>
+    <string name="passLogo">Image</string>
+    <string name="adminIcon">image</string>
+    <string name="searchP">Search Product</string>
+    <string name="updateP">Update Product Details</string>
+    <string name="btnAddP">Add Item</string>
+    <string name="addImage">Image</string>
+    <string name="addTopic">ADD PRODUCT</string>
+    <string name="btnViewP">VIEW STORE</string>
+    <string name="btnBrowse">BROWSE</string>
+
 </resources>

@@ -3,4 +3,15 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    //IT19188164
+    <color name="colorLightOrange">#F48C6C</color>
+    <color name="colorLightBrown">#A88073</color>
+    <color name="colorBlack">#070707</color>
+    <color name="colorAsh">#717571</color>
+    <color name="colorLightPink">#F4847C</color>
+    <color name="colorLightBlack"> #1E1E1E</color>
+    <color name="colorDarkRed">#9A0D03</color>
+    <color name="colorBrown">#855343</color>
+    <color name="colorWhite">#F3EEEE</color>
 </resources>
