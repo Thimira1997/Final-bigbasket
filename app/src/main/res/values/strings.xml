@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">bigBasket</string>
     <string name="login">Login</string>
     <string name="user">Email</string>
     <string name="pass">Password</string>
