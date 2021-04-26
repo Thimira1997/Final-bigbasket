@@ -46,6 +46,7 @@ public class Feedback_Details extends AppCompatActivity {
         ename = findViewById(R.id.editname);
         efeed = findViewById(R.id.editfeed);
 
+        //button implement
         Update.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -73,7 +74,7 @@ public class Feedback_Details extends AppCompatActivity {
                     }
                 });
 
-
+                //button implement
                 Delete.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
